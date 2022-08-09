@@ -1,0 +1,41 @@
+STEP 轉換到 Solid Edge
+日期: 星期日,七月 10,2022 10:52上午
+原始檔案: E:\keyboard\pcb\keyboard\v4\keyboard_V4.step
+作者: Pcbnew
+組織: Kicad
+來源系統: KiCad to STEP converter
+
+硬體:
+處理器: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+作業系統: Windows 10
+已裝記憶體: 3.85 GB
+
+軟體資訊
+Parasolid 版本: 34.0.153
+PSBodyShop 版本: 34.0.110
+步驟轉換器版本: 9.0.92
+Solid Edge 版本: 222.00.00.132 x64
+
+STEP 匯入選項
+匯入小平面體: 開
+匯入檢查體: 關
+匯入曲線: 開
+Import DoNotSave: 開
+匯入多個體為單個零件檔: 開
+匯入縫合曲面: 開
+匯入布林體: 開
+設為基本特徵: 開
+簡化幾何體: 開
+匯入壓印曲線: 開
+匯入驅動: C:
+匯入縫合曲面: 開
+匯入曲面: 開
+匯入輸出路徑: E:\keyboard\pcb\keyboard\v4
+匯入啟用預設輸出路徑: 開
+匯入 PMI: 關
+匯入為內部元件: 關
+匯入路徑: 
+
+正在轉換為 Parasolid 資料類型...
+轉換過程結束
+轉換和後處理所需的總時間:00 : 00 : 09
